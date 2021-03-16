@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutble index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
+
+我来修复bug了
